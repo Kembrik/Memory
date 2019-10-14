@@ -47,7 +47,8 @@ public class SceneController : MonoBehaviour
 				int index = y * gridCols + x;
 				int id = numbers[index];
 				// int id = Random.Range(0, images.Length);
-				originalCard.SetCard(id, images[id]);
+				// originalCard.SetCard(id, images[id]);
+				card.SetCard(id, images[id]);
 
 				float posX = StartPos.x + (offsetX * x);
 				float posY = StartPos.y - (offsetY * y);
