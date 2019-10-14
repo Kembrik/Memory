@@ -56,6 +56,7 @@
      <Compile Include="Assets\Scripts\MemoryCard.cs" />
      <Compile Include="Assets\Scripts\SceneController.cs" />
      <Compile Include="Assets\Scripts\UIButton.cs" />
+     <Compile Include="Assets\Scripts\UIController.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/unity/Projects/GitHub/Memory/Memory/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
